@@ -1,2 +1,4 @@
-node module
+node_modules
+
+#hide sensitive information
 .env
